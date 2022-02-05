@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @72727272727
+- 👋 Hi, I’m @garry000
 - 👀 I’m interested in python & machine learming
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on python project
